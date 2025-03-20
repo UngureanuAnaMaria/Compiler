@@ -1,0 +1,14 @@
+x  int  3
+x1  int  700
+x2  int  30
+y  int  100
+s  bool  true
+arr  int  0
+f  float  30.1
+f1  float  0
+ch  char  c
+C1.w  int  0
+C2.t  int  0
+int  testFunction  (int x, float z)
+int  test2  (int x, int z)
+int  test  (int param1, int param2, float f)
