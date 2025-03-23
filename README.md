@@ -16,9 +16,6 @@ The compiler performs **semantic analysis** and provides detailed error messages
 - **Lex** – For lexical analysis (tokenizing input).
 - **Yacc** – For syntax analysis (parsing the language).
 
-## 📜 Project Specifications:
-You can find the complete project requirements in the provided Google Document:
-
 ## 🚀 How to Run:
 
 1. **Clone the Repository:**
